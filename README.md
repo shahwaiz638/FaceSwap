@@ -28,6 +28,6 @@ Despite the remarkable progress achieved with generative models, several challen
     ```sh
     pip install -r requirements.txt
     ```
-
+3. Run the Notebook cells sequentially 
 
 
